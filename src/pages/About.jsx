@@ -38,9 +38,10 @@ export default function About() {
                 fontSize: "20px",
                  letterSpacing: "1px"
                 }}>
-          <p1>Es Teler Daeng Sultan adalah sebuah UMKM kuliner yang mengkhususkan diri pada Es Teler, telah beroperasi sejak akhir Agustus tahun lalu dengan komitmen menyajikan rasa otentik yang tak terlupakan. Nama kami mencerminkan identitas yang kuat: "Daeng" adalah julukan kehormatan khas Makassar yang mewakili sang pemilik, sementara "Sultan" diambil dari nama putra pemilik, menjadikannya warisan rasa yang sarat nilai kekeluargaan. 
-
-</p1>
+          <p1>Es Teler Daeng Sultan adalah sebuah UMKM kuliner yang mengkhususkan diri pada Es Teler,
+             telah beroperasi sejak akhir Agustus tahun lalu dengan komitmen menyajikan rasa otentik yang tak terlupakan. 
+             Nama kami mencerminkan identitas yang kuat: "Daeng" adalah julukan kehormatan khas Makassar yang mewakili sang pemilik, 
+             sementara "Sultan" diambil dari nama putra pemilik, menjadikannya warisan rasa yang sarat nilai kekeluargaan. </p1>
         </p>
         <Link to="/location">
           <Button
