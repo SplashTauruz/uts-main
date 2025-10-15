@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/* Style untuk font di body */
+.p1 {             
+  font-family: "Oswald", "sans-serif";
+  font-optical-sizing: auto;
+  font-weight: 500;         
+  font-size: 30px;
+  letter-spacing: 1px;
+  align-items: center;  
+  text-align: center; 
+  margin-top: 150px;
+  color: #000000;
+}
+
+.navbar {
+  background-color: #1c92dc; 
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+  font-family: butler;
+}
+
+.navbar .nav-link {
+  color: #f0f8ff;
+  font-weight: 400;         
+  font-size: 12px;
+  letter-spacing: 7px;     
+  margin: 0 40px;
+}
+
+.navbar .nav-link:hover {
+  color: #f0f8ff; 
+  text-shadow: 0 0 1px #f0f8ff;
+}
+
+@media (max-width: 991px) {
+  .navbar {
+    justify-content: space-between ;
+    padding: 0 1rem;
+  }
+
+  .navbar .nav-link,
+  .navbar .dropdown-toggle {
+    font-family: "Oswald";
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #f0f8ff;
+  }
+
+  .navbar-collapse {
+    background-color: #1c92dc;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 0 0 10px 10px;
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-toggler-icon {
+  filter: brightness(0) saturate(100%) invert(90%) sepia(3%) saturate(452%) hue-rotate(128deg);
+}
+}
+
+@media (min-width: 992px) {
+  .navbar-brand {
+    display: none; 
+  }
+}
+
+.basic-nav-dropdown,
+.basic-nav-dropdown .dropdown-item {
+  font-family: 'Poppins', sans-serif; /* Ganti dengan font yang kamu mau */
+  font-size: 16px; /* Sesuaikan ukuran */
+  font-weight: 500;
+}
+
+

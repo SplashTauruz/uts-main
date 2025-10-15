@@ -1,0 +1,180 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Es Teler"
+    },
+    {
+      "id": 2,
+      "nama": "Sticky Milk"
+    },
+    {
+      "id": 3,
+      "nama": "Es Cemil"
+    },
+    {
+      "id": 4,
+      "nama": "Alpukat Kocok"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Es Teler Original",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "esteler.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Es Teler"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Es Teler Ice Cream Vanilla",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "esteler.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Es Teler"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Es Teler Ice Cream Durian",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "esteler.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Es Teler"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Strawberry",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "strawberry.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Sticky Milk"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Avocado",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "alpukat.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Sticky Milk"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Taro",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "taro.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Sticky Milk"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Chocolate",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "coklat.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Sticky Milk"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Manggo",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "manggo.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Sticky Milk"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Ice Vanilla",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "cemilvanilla.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Es Cemil"
+      }
+    },  
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Ice Coklat",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "cemilcoklat.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Es Cemil"
+      }
+    },  
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Ice Strawberry",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "cemilstrawberry.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Es Cemil"
+      }
+    },  
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Original",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "alpukatk.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Alpukat Kocok"
+      }
+    },  
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Ice Cream",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "alpukatk.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Alpukat Kocok"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
